@@ -11,7 +11,7 @@ export default function Footer() {
             <div className="flex items-center gap-2 font-black text-2xl mb-6 justify-start">
               <Zap className="text-blue-500 fill-blue-500" size={32} />
               <span className="text-white">
-                إنجاز <span className="text-blue-500 text-glow">ENJAZ</span>
+                <span className="text-blue-500 text-glow">OXA</span> Code
               </span>
             </div>
             <p className="text-gray-500 max-w-sm text-lg leading-relaxed">
@@ -24,7 +24,7 @@ export default function Footer() {
             <h4 className="text-white font-bold mb-6 text-xl">الوكالة</h4>
             <ul className="space-y-4 text-gray-500">
               <li className="hover:text-blue-400 cursor-pointer transition-colors">
-                <a href="#we">عن إنجاز</a>
+                <a href="#we">عن Oxa code</a>
               </li>
               <li className="hover:text-blue-400 cursor-pointer transition-colors">
                 <a href="#services">خدماتنا</a>

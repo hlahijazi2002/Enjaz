@@ -19,7 +19,7 @@ export default function Hero() {
             <div className="absolute inset-0 bg-gradient-to-tr from-blue-500/20 to-purple-500/20 rounded-[3rem] blur-2xl group-hover:blur-3xl transition-all" />
             <Image
               src="/hero.png"
-              alt="Enjaz"
+              alt="Oxa code"
               width={600}
               height={400}
               priority

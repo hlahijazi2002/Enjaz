@@ -20,7 +20,7 @@ export default function WhyChooseUs() {
             whileInView={{ opacity: 1, y: 0 }}
             className="text-4xl md:text-5xl font-black mt-4 mb-6"
           >
-            لماذا تختار وكالة <span className="text-blue-500">إنجاز</span>؟
+            لماذا تختار <span className="text-blue-500">OXA Code</span>؟
           </motion.h2>
           <p className="text-gray-400 max-w-2xl mx-auto text-lg">
             نحن نجمع بين الشغف بالإبداع والدقة في التنفيذ لنقدم لك تجربة رقمية

@@ -19,7 +19,7 @@ export default function Navbar() {
         <div className="flex items-center gap-2 font-black text-xl tracking-tighter">
           <Zap className="text-blue-500 fill-blue-500" size={24} />
           <span className="text-white">
-            إنجاز <span className="text-blue-500">ENJAZ</span>
+            <span className="text-blue-500">OXA</span> Code
           </span>
         </div>
 

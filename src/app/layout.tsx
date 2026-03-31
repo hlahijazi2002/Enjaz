@@ -10,7 +10,7 @@ const cairo = Cairo({
 });
 
 export const metadata: Metadata = {
-  title: " إنجاز",
+  title: "OXA Code",
   description: "نحول أفكارك إلى واقع رقمي مبهر",
 };
 
